@@ -1,0 +1,5 @@
+package service;
+
+public interface PaymentService {
+    String pay(double amount);
+}
