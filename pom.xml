@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>seminar2</artifactId>
+    <artifactId>seminar-CDI</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>seminar2</name>
+    <name>seminar-CDI</name>
     <packaging>war</packaging>
 
     <properties>
