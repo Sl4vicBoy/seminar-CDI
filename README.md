@@ -19,7 +19,7 @@ cd seminar-CDI
 lub pobierz pliki z upela.
 ---
 
-## 🔐 2. Nadanie uprawnień
+## 2. Nadanie uprawnień
 
 Nadaj uprawnienia dla Maven Wrappera,  znajdującemu się w głównym katalogu projektu:
 
