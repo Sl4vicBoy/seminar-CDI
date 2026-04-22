@@ -1,7 +1,6 @@
 package decorator;
 
 import jakarta.annotation.Priority;
-import jakarta.enterprise.inject.Any;
 import qualifier.CreditCard;
 import service.PaymentService;
 import jakarta.decorator.Decorator;

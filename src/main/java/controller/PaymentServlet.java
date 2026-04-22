@@ -73,7 +73,7 @@ public class PaymentServlet extends HttpServlet {
                     <li class="list-group-item"><b>Time:</b> %s</li>
                 </ul>
 
-                <a class="btn btn-primary w-100" href="/seminar2_war_exploded/">
+                <a class="btn btn-primary w-100" href="/seminar-CDI/">
                     ← Back to Home
                 </a>
 

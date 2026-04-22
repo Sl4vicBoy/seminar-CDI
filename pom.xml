@@ -51,6 +51,7 @@
     </dependencies>
 
     <build>
+        <finalName>seminar-CDI</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
